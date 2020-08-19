@@ -1,1 +1,2 @@
 Hello this is test file for git.
+Hello this is my second commit.
