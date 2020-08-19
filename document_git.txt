@@ -1,0 +1,21 @@
+Step 1: Open Git Cmd 
+Step 2: cd 
+Step 3: cd /c
+Step 4: ls
+Step 5: Create git or project name folder in c directory.
+Step 6 : ls
+Step 7: cd git/
+Step 8: ls
+Step 9: set up github account credential.
+Step 10: git config user.name "Shravan10"
+Step 11: git config user.email "shravankumarghanchi@gmail.com"
+Step 12: Clone git repository url
+Step 13: git clone url
+Step 14: ls 
+Step 15:cd TestGit
+Step 16: ls 
+Step 17 : git add first_git.txt
+Step 18: git status
+Step 19: git commit -m "First commit in Git" first_git.txt
+Step 20: Git push -u origin master
+Step 21 : if we add or edit file the repeat step 19,20. 
